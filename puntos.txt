@@ -1,0 +1,8 @@
+Al digitar la placa de una moto minomo 7 caracteres y maximo 10  //lsto
+
+para un carro minimo 5 caracteres y maximo 7 // listo
+
+tipo de documento, pasaporte o cedula de ciudadania, nombre del usuario // Listo
+
+maximo de vehiculos 4 
+
